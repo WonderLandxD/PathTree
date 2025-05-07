@@ -1,0 +1,77 @@
+{
+    "id": 7,
+    "value": "This is a pathological breast H&E slide.",
+    "name": "root",
+    "children": [
+        {
+            "id": 0,
+            "value": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+            "name": "Invasive"
+        },
+        {
+            "id": 8,
+            "value": "There are no lesions or the lesions show non-invasive and the cancer cells are not invading other tissues.",
+            "name": "Non-invasive",
+            "children": [
+                {
+                    "id": 9,
+                    "value": "The lesions show non-atypical, which is a benign type of non-cancerous disease.",
+                    "name": "Non-atypical",
+                    "children": [
+                        {
+                            "id": 1,
+                            "value": "No cancer was found in the lesions.",
+                            "name": "Normal"
+                        },
+                        {
+                            "id": 11,
+                            "value": "The lesions show hyperplasia, an excessive growth of cells, but are not cancerous.",
+                            "name": "Hyperplastic",
+                            "children": [
+                                {
+                                    "id": 2,
+                                    "value": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+                                    "name": "Benign"
+                                },
+                                {
+                                    "id": 3,
+                                    "value": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+                                    "name": "UDH"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "value": "The lesions show possible precancerous conditions or ductal carcinoma in situ, which is a non-invasive form of breast cancer.",
+                    "name": "Atypical or DCIS",
+                    "children": [
+                        {
+                            "id": 12,
+                            "value": "The lesions show atypical, and their cells show a different morphology and structure from normal breast cells, but the degree of change is not enough to be diagnosed as cancer, which is a precancerous state.",
+                            "name": "Atypical",
+                            "children": [
+                                {
+                                    "id": 4,
+                                    "value": "The lesions show atypical ductal hyperplasia, which mainly occurs in breast ducts. Its cell characteristics are similar to ductal carcinoma in situ, but the number and range of cells are not as large as ductal carcinoma in situ.",
+                                    "name": "ADH"
+                                },
+                                {
+                                    "id": 5,
+                                    "value": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+                                    "name": "FEA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "value": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+                            "name": "DCIS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

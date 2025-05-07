@@ -1,0 +1,772 @@
+[
+    {
+        "name": "BRACS_1003700",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1003700"
+    },
+    {
+        "name": "BRACS_1480",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1480"
+    },
+    {
+        "name": "BRACS_1774",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1774"
+    },
+    {
+        "name": "BRACS_1971",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1971"
+    },
+    {
+        "name": "BRACS_1614",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_1614"
+    },
+    {
+        "name": "BRACS_1582",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1582"
+    },
+    {
+        "name": "BRACS_1618",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1618"
+    },
+    {
+        "name": "BRACS_1843",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1843"
+    },
+    {
+        "name": "BRACS_1413",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1413"
+    },
+    {
+        "name": "BRACS_760",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_760"
+    },
+    {
+        "name": "BRACS_3275",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_3275"
+    },
+    {
+        "name": "BRACS_3319",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_3319"
+    },
+    {
+        "name": "BRACS_1336",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1336"
+    },
+    {
+        "name": "BRACS_1950",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1950"
+    },
+    {
+        "name": "BRACS_1888",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1888"
+    },
+    {
+        "name": "BRACS_737",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_737"
+    },
+    {
+        "name": "BRACS_1239",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1239"
+    },
+    {
+        "name": "BRACS_1814",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1814"
+    },
+    {
+        "name": "BRACS_1003730",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1003730"
+    },
+    {
+        "name": "BRACS_1318",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1318"
+    },
+    {
+        "name": "BRACS_1886",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1886"
+    },
+    {
+        "name": "BRACS_3269",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_3269"
+    },
+    {
+        "name": "BRACS_1828",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1828"
+    },
+    {
+        "name": "BRACS_1779",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1779"
+    },
+    {
+        "name": "BRACS_1003727",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003727"
+    },
+    {
+        "name": "BRACS_1633",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1633"
+    },
+    {
+        "name": "BRACS_1367",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1367"
+    },
+    {
+        "name": "BRACS_1871",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1871"
+    },
+    {
+        "name": "BRACS_1247",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1247"
+    },
+    {
+        "name": "BRACS_265",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_265"
+    },
+    {
+        "name": "BRACS_1003692",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003692"
+    },
+    {
+        "name": "BRACS_1279",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1279"
+    },
+    {
+        "name": "BRACS_1870",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1870"
+    },
+    {
+        "name": "BRACS_1589",
+        "fine_label": "ADH",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show atypical ductal hyperplasia, which mainly occurs in breast ducts. Its cell characteristics are similar to ductal carcinoma in situ, but the number and range of cells are not as large as ductal carcinoma in situ.",
+        "file_path": "Data/BRACS/BRACS_1589"
+    },
+    {
+        "name": "BRACS_1654",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1654"
+    },
+    {
+        "name": "BRACS_1928",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1928"
+    },
+    {
+        "name": "BRACS_1787",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1787"
+    },
+    {
+        "name": "BRACS_1821",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1821"
+    },
+    {
+        "name": "BRACS_3292",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_3292"
+    },
+    {
+        "name": "BRACS_1579",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_1579"
+    },
+    {
+        "name": "BRACS_1515",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1515"
+    },
+    {
+        "name": "BRACS_3302",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_3302"
+    },
+    {
+        "name": "BRACS_1003667",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003667"
+    },
+    {
+        "name": "BRACS_762",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_762"
+    },
+    {
+        "name": "BRACS_1893",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1893"
+    },
+    {
+        "name": "BRACS_1003728",
+        "fine_label": "ADH",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show atypical ductal hyperplasia, which mainly occurs in breast ducts. Its cell characteristics are similar to ductal carcinoma in situ, but the number and range of cells are not as large as ductal carcinoma in situ.",
+        "file_path": "Data/BRACS/BRACS_1003728"
+    },
+    {
+        "name": "BRACS_1890",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1890"
+    },
+    {
+        "name": "BRACS_1003732",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003732"
+    },
+    {
+        "name": "BRACS_1602",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1602"
+    },
+    {
+        "name": "BRACS_1917",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1917"
+    },
+    {
+        "name": "BRACS_1374",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1374"
+    },
+    {
+        "name": "BRACS_740",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_740"
+    },
+    {
+        "name": "BRACS_286",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_286"
+    },
+    {
+        "name": "BRACS_1606",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1606"
+    },
+    {
+        "name": "BRACS_1799",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1799"
+    },
+    {
+        "name": "BRACS_1875",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1875"
+    },
+    {
+        "name": "BRACS_1510",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1510"
+    },
+    {
+        "name": "BRACS_1631",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1631"
+    },
+    {
+        "name": "BRACS_1933",
+        "fine_label": "ADH",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show atypical ductal hyperplasia, which mainly occurs in breast ducts. Its cell characteristics are similar to ductal carcinoma in situ, but the number and range of cells are not as large as ductal carcinoma in situ.",
+        "file_path": "Data/BRACS/BRACS_1933"
+    },
+    {
+        "name": "BRACS_1786",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1786"
+    },
+    {
+        "name": "BRACS_1610",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1610"
+    },
+    {
+        "name": "BRACS_1837",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1837"
+    },
+    {
+        "name": "BRACS_1003721",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003721"
+    },
+    {
+        "name": "BRACS_3284",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_3284"
+    },
+    {
+        "name": "BRACS_1003659",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1003659"
+    },
+    {
+        "name": "BRACS_3300",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_3300"
+    },
+    {
+        "name": "BRACS_1330",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1330"
+    },
+    {
+        "name": "BRACS_1788",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1788"
+    },
+    {
+        "name": "BRACS_1591",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1591"
+    },
+    {
+        "name": "BRACS_1493",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1493"
+    },
+    {
+        "name": "BRACS_1584",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_1584"
+    },
+    {
+        "name": "BRACS_1661",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1661"
+    },
+    {
+        "name": "BRACS_1322",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1322"
+    },
+    {
+        "name": "BRACS_1826",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1826"
+    },
+    {
+        "name": "BRACS_1360",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1360"
+    },
+    {
+        "name": "BRACS_1835",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1835"
+    },
+    {
+        "name": "BRACS_3271",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_3271"
+    },
+    {
+        "name": "BRACS_747",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_747"
+    },
+    {
+        "name": "BRACS_761",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_761"
+    },
+    {
+        "name": "BRACS_1499",
+        "fine_label": "ADH",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show atypical ductal hyperplasia, which mainly occurs in breast ducts. Its cell characteristics are similar to ductal carcinoma in situ, but the number and range of cells are not as large as ductal carcinoma in situ.",
+        "file_path": "Data/BRACS/BRACS_1499"
+    },
+    {
+        "name": "BRACS_1641",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_1641"
+    },
+    {
+        "name": "BRACS_1880",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1880"
+    },
+    {
+        "name": "BRACS_1924",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1924"
+    },
+    {
+        "name": "BRACS_1003698",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003698"
+    },
+    {
+        "name": "BRACS_754",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_754"
+    },
+    {
+        "name": "BRACS_3295",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_3295"
+    },
+    {
+        "name": "BRACS_1782",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1782"
+    },
+    {
+        "name": "BRACS_1003658",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1003658"
+    },
+    {
+        "name": "BRACS_1325",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1325"
+    },
+    {
+        "name": "BRACS_739",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_739"
+    },
+    {
+        "name": "BRACS_295",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_295"
+    },
+    {
+        "name": "BRACS_1823",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1823"
+    },
+    {
+        "name": "BRACS_1235",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1235"
+    },
+    {
+        "name": "BRACS_1496",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1496"
+    },
+    {
+        "name": "BRACS_1798",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1798"
+    },
+    {
+        "name": "BRACS_1423",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1423"
+    },
+    {
+        "name": "BRACS_1833",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1833"
+    },
+    {
+        "name": "BRACS_1392",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1392"
+    },
+    {
+        "name": "BRACS_1370",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1370"
+    },
+    {
+        "name": "BRACS_1638",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1638"
+    },
+    {
+        "name": "BRACS_1653",
+        "fine_label": "DCIS",
+        "coarse_label": "Group_MT",
+        "description": "The lesions show ductal carcinoma in situ, which is non-invasive breast cancer, and their cancer cells are confined within the breast ducts and have not yet penetrated the duct walls and invaded surrounding normal tissue.",
+        "file_path": "Data/BRACS/BRACS_1653"
+    },
+    {
+        "name": "BRACS_1003715",
+        "fine_label": "Normal",
+        "coarse_label": "Group_BT",
+        "description": "No cancer was found in the lesions.",
+        "file_path": "Data/BRACS/BRACS_1003715"
+    },
+    {
+        "name": "BRACS_1941",
+        "fine_label": "FEA",
+        "coarse_label": "Group_AT",
+        "description": "The lesions show flat epithelial atypia, which is a milder form of atypical cell hyperplasia, and their cell changes are limited to the flat epithelium of the lobules and are accompanied by slight cellular atypia, but it is not as obvious as atypical ductal hyperplasia.",
+        "file_path": "Data/BRACS/BRACS_1941"
+    },
+    {
+        "name": "BRACS_1851",
+        "fine_label": "Benign",
+        "coarse_label": "Group_BT",
+        "description": "There are benign lesions such as cysts and fibroadenoma, not cancer.",
+        "file_path": "Data/BRACS/BRACS_1851"
+    },
+    {
+        "name": "BRACS_1003731",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1003731"
+    },
+    {
+        "name": "BRACS_1957",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1957"
+    },
+    {
+        "name": "BRACS_3323",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_3323"
+    },
+    {
+        "name": "BRACS_1810",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_1810"
+    },
+    {
+        "name": "BRACS_1621",
+        "fine_label": "UDH",
+        "coarse_label": "Group_BT",
+        "description": "The lesions show usual ductal hyperplasia, in which cells within the breast ducts proliferate but maintain normal arrangement and structure.",
+        "file_path": "Data/BRACS/BRACS_1621"
+    },
+    {
+        "name": "BRACS_310",
+        "fine_label": "Invasive",
+        "coarse_label": "Group_MT",
+        "description": "There are aggressive cancerous lesions in which cancer cells are invading neighboring tissues.",
+        "file_path": "Data/BRACS/BRACS_310"
+    }
+]
