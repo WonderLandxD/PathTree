@@ -1,4 +1,4 @@
-### Diagnostic Text-guided Representation Learning in Hierarchical Classification for Pathological Whole Slide Image
+## Diagnostic Text-guided Representation Learning in Hierarchical Classification for Pathological Whole Slide Image
 
 The paper is under review. See the preprint version as follows: [Arxiv](https://arxiv.org/abs/2411.10709)
 
